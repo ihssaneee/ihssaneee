@@ -2,54 +2,61 @@
 
 > *I write code, break things, fix them, and occasionally wonder why I thought this was a good career.*
 
-[Website](https://yourportfolio.com) • [LinkedIn](https://linkedin.com/in/yourprofile) • **Morocco 🇲🇦**
+---
+
+### 🧑‍💻 About me
+- **Full-Stack Developer** based in **Morocco 🇲🇦**
+- Background in **Laravel, PHP, and React**, now shifting heavily into **C#, .NET Core, ASP.NET Core, and Angular**.
+- Passionate about understanding what happens underneath the abstractions rather than just getting code to run.
+- Currently building **CollabWorkspace**, a Scrum-focused collaboration and ticket management system.
 
 ---
 
-### 🌐 Current Focus
-
-Shifting from **Laravel & React** into backend architecture with **.NET** and **Angular**:
-
-`Laravel / React` ───► `C#` ───► `.NET Core` ───► `ASP.NET Core` ───► `Angular`
-
-Currently building **CollabWorkspace**—a Scrum-oriented platform focused on what matters under the hood: authentication, authorization, API design, database strategy, and system architecture.
+### 🧠 Currently learning & building
+- **C# / .NET Core / ASP.NET Core** — Architecture, authentication, authorization, APIs, and database patterns.
+- **Angular & TypeScript** — Frontend system architecture and component patterns.
+- Deepening fundamentals around **PostgreSQL**, REST API performance, and clean code practices.
 
 ---
 
-### 🧩 Hard-Learned Lessons
-
-- `it works` $\neq$ `it's good`
-- `more abstractions` $\neq$ `better architecture`
-- `AI generated` $\neq$ `understood`
-- `localhost` $\neq$ `production`
-- **Never trust code you haven't debugged yourself.**
+### 🤝 Open to collaborating on
+- **ASP.NET Core & Angular** full-stack applications.
+- **Laravel & React** enterprise tools or complex business applications.
+- System design, database optimization, and API development.
 
 ---
 
-### 🛠️ Tech Stack
-
-- **Backend:** C# • ASP.NET Core • EF Core • PostgreSQL • REST APIs
-- **Frontend:** Angular • TypeScript • React • Tailwind CSS
-- **Battle-Tested:** Laravel • PHP • MySQL
-
----
-
-### 🏗️ Projects
-
-#### 1. CollabWorkspace `In Progress`
-* **Stack:** ASP.NET Core, Angular, PostgreSQL  
-* Scrum-focused collaboration and ticket management platform built to master lower-level execution and framework fundamentals beyond standard abstraction layers.
-
-#### 2. Fondation Zakoura — Enterprise Platform `Private`
-* **Stack:** Laravel, React, PostgreSQL  
-* Internal system for purchasing, inventory, HR, payments, and document pipelines. Engineered with approval workflows, PDF generation, filtering, and role-based permissions.
+### 🧩 Things I've learned the hard way
+- `"it works"` ≠ `"it's good"`
+- `more abstractions` ≠ `"better architecture"`
+- `AI generated` ≠ `"understood"`
+- `localhost` ≠ `"production"`
+- Never trust code you haven't debugged yourself.
 
 ---
 
-### 🧠 Mindset & Approach
+### 🛠️ Tech Stack & Tools
 
-I prioritize core mechanics over quick setups:
-- *Why does this request need a service?*
-- *Why is this query hitting the database three times?*
-- *Why is this user allowed to access this resource?*
-- *Why did it work yesterday?*
+**Backend & Databases**  
+`C#` · `ASP.NET Core` · `EF Core` · `PostgreSQL` · `REST APIs` · `Laravel` · `PHP` · `MySQL`
+
+**Frontend**  
+`Angular` · `TypeScript` · `React` · `Tailwind CSS`
+
+---
+
+### 🏗️ Key Projects
+
+* **CollabWorkspace** `In Progress`  
+  *ASP.NET Core • Angular • PostgreSQL*  
+  A Scrum-oriented collaboration platform focused on authentication, authorization, query performance, and domain architecture.
+
+* **Fondation Zakoura — Internal Platform** `Private`  
+  *Laravel • React • PostgreSQL*  
+  An enterprise application covering purchasing, inventory, HR, payments, mission tracking, and automated document generation.
+
+---
+
+### 📬 Connect with me
+- 🌐 [Portfolio](https://yourportfolio.com)
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
