@@ -1,204 +1,136 @@
 <div align="center">
 
-# `ihssaneee`
+<br>
 
-### `full-stack developer` · `problem solver` · `professional debugger`
+# IHSSANE
+
+**Full-Stack Developer**
 
 <br>
 
-**I build things. Then I take them apart to understand them.**
+[Portfolio](https://ihssane-portfolio.vercel.app/)　·　[LinkedIn](https://www.linkedin.com/)
 
-<br>
-
-[🌐 Portfolio](https://ihssane-portfolio.vercel.app/) · [💼 LinkedIn](https://www.linkedin.com/)
+<br><br>
 
 </div>
 
 ---
 
-```text
-┌─────────────────────────────────────────────────────────────────────┐
-│  ~/ihssane                                                          │
-│                                                                     │
-│  $ whoami                                                           │
-│                                                                     │
-│  Ihssane — Full-Stack Developer                                    │
-│  currently moving deeper into .NET + Angular                        │
-│                                                                     │
-│  $ cat current_focus.txt                                            │
-│                                                                     │
-│  ├── ASP.NET Core                                                   │
-│  ├── Entity Framework Core                                         │
-│  ├── PostgreSQL                                                     │
-│  ├── Angular                                                        │
-│  ├── TypeScript                                                     │
-│  └── learning how production systems actually work                  │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
 
-## `> ./current_project`
+### I build web applications
 
-### **CollabWorkspace**
+### and I'm currently building my way into **.NET + Angular.**
 
-A Scrum-oriented collaboration and ticket management system.
+<br>
 
-```text
-STACK
-─────
-Backend     →  ASP.NET Core · EF Core · PostgreSQL
-Auth        →  ASP.NET Identity · JWT
-Frontend    →  Angular · TypeScript · Tailwind
-
-STATUS
-──────
-██████████████████░░░░░░░░░░░░  building
-```
-
-I'm building this one deliberately.
-
-Not by generating 50 files and hoping everything works.
-
-**Feature → understand → implement → review → break → fix → repeat.**
+</div>
 
 ---
 
-## `> ./experience`
-
-Before moving deeper into .NET, I spent time working with **Laravel + React** on real business software.
-
-The code isn't public, but the problems were real:
-
-```text
-purchase orders
-inventory
-employees & leave
-payments & expenses
-missions
-documents
-approval workflows
-REST APIs
-PDF generation
-notifications
-validation
-data integrity
-```
-
-Working inside an existing system taught me something tutorials couldn't:
-
-> **The difficult part isn't always writing the code.
-> It's understanding the system you're writing it into.**
-
----
-
-## `> ./tech --current`
-
-<table>
+<table align="center">
 <tr>
-<td valign="top" width="50%">
+<td align="center" width="250">
 
-### Backend
+**BUILDING**
 
-```text
-C#
-.NET
+`CollabWorkspace`
+
 ASP.NET Core
-Entity Framework Core
-PostgreSQL
-REST APIs
-JWT
-ASP.NET Identity
-```
+Angular · PostgreSQL
 
 </td>
-<td valign="top" width="50%">
 
-### Frontend
+<td align="center" width="250">
 
-```text
-Angular
-TypeScript
-React
-JavaScript
-Tailwind CSS
-```
+**EXPERIENCE**
+
+Laravel · React
+
+Real-world
+business systems
+
+</td>
+
+<td align="center" width="250">
+
+**EXPLORING**
+
+Architecture
+Authentication
+APIs
+Data
 
 </td>
 </tr>
 </table>
 
-### Previous stack
-
-`Laravel` · `PHP` · `MySQL`
-
 ---
 
-## `> ./brain --status`
+<br>
 
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│  learning                                   │
-│  ───────────────────────────────────────    │
-│                                             │
-│  .NET / ASP.NET Core        ████████░░ 80% │
-│  Angular                    ██████░░░░ 60% │
-│  PostgreSQL / EF Core       ███████░░░ 70% │
-│  Architecture               ██████░░░░ 60% │
-│  Production practices       ████░░░░░░ 40% │
-│                                             │
-│  * percentages are intentionally made up   │
-│    because learning isn't a progress bar.  │
-│                                             │
-└─────────────────────────────────────────────┘
-```
+<div align="center">
 
----
+### SELECTED WORK
 
-## `> ./philosophy`
+</div>
 
-I don't want to be the developer who knows how to make AI generate an application.
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-I want to be the developer who can **open an unfamiliar codebase and understand what the hell is going on.**
+### CollabWorkspace
 
-So I care about:
+A Scrum-focused collaboration platform I'm building to deepen my .NET and Angular skills.
 
-`architecture` · `trade-offs` · `security` · `data` · `debugging` · `maintainability`
+**ASP.NET Core · Angular · PostgreSQL**
 
-And yes, I use AI.
+`in progress`
 
-But preferably as a **second pair of eyes**, not as the person holding the keyboard.
+</td>
 
----
+<td width="50%" valign="top">
 
-## `> ./currently`
+### Business Applications
 
-```diff
-- PHP/Laravel only
-+ .NET / Angular
+Worked on production business software involving purchasing, inventory, HR, payments, documents, workflows and REST APIs.
 
-- "make it work"
-+ "understand why it works"
+**Laravel · React · PostgreSQL**
 
-- tutorial projects
-+ real-world problems
+`private`
 
-- copy → paste → pray
-+ build → review → break → fix
-```
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
 <div align="center">
 
-### `while (!mastered) { keepLearning(); }`
+### THE STACK
 
 <br>
 
-**Made with curiosity, caffeine, and an unreasonable number of browser tabs.**
+**C#**　**.NET**　**ASP.NET Core**　**Angular**　**TypeScript**　**React**　**PostgreSQL**
 
 <br>
 
-[🌐 ihssane-portfolio.vercel.app](https://ihssane-portfolio.vercel.app/)
+`Git`　`Docker`　`EF Core`　`JWT`
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+> *Still learning. Still building. Still breaking things.*
+
+<br><br>
+
+**Ihssane · Morocco 🇲🇦**
 
 </div>
