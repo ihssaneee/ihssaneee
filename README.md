@@ -4,10 +4,10 @@
   <p><strong>🇲🇦 Morocco • Full-Stack Developer</strong></p>
 
   <p>
-    <a href="https://ihssane-portfolio.vercel.app/">
+    <a href="https://ihssane-portfolio.vercel.app/" target="_blank" >
       <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="https://www.linkedin.com/in/ihsane-naji-aa1397199/?isSelfProfile=true">
+    <a href="https://www.linkedin.com/in/ihsane-naji-aa1397199/?isSelfProfile=true" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
