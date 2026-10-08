@@ -1,7 +1,8 @@
 <div align="center">
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ihssane+%F0%9F%91%8B;Full-Stack+Developer;Currently+building+with+.NET+%2B+Angular;Always+learning+by+building" alt="Typing SVG" />
 
-  <p><b>🇲🇦 Morocco • Full-Stack Developer</b></p>
+  <p><strong>🇲🇦 Morocco • Full-Stack Developer</strong></p>
 
   <p>
     <a href="YOUR_PORTFOLIO_LINK">
@@ -11,24 +12,31 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
+
 </div>
 
 <br>
 
 <div align="center">
+
   <h3>🛠️ Technologies</h3>
 
-  <p><i>Expanding a strong full-stack foundation while going deeper into the .NET ecosystem.</i></p>
+  <p>
+    <i>
+      Expanding a strong full-stack foundation while going deeper into the .NET ecosystem.
+    </i>
+  </p>
 
-  <p><b>Current Focus</b></p>
+  <p><strong>Current Focus</strong></p>
 
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,angular,ts,tailwind&perline=6" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,angular,ts,tailwind&perline=6" alt="Current technology stack" />
 
 <br><br>
 
-  <p><b>Experience With</b></p>
+  <p><strong>Experience With</strong></p>
 
-  <img src="https://skillicons.dev/icons?i=laravel,php,react,mysql&perline=4" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,react,mysql&perline=4" alt="Technologies I have experience with" />
+
 </div>
 
 <br>
@@ -38,11 +46,12 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ CollabWorkspace</h3>
 
 ```
+  <h3 align="center">⚡ CollabWorkspace</h3>
+
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=dotnet,angular,postgres" height="30" />
+    <img src="https://skillicons.dev/icons?i=dotnet,angular,postgres" height="30" alt="CollabWorkspace technologies" />
   </p>
 
   <p>
@@ -57,14 +66,16 @@
     </i>
   </p>
 
-  <p><b>Status:</b> 🚧 Active Development</p>
+  <p><strong>Status:</strong> 🚧 Active Development</p>
+
 </td>
 
 <td width="50%" valign="top">
+
   <h3 align="center">🏛️ Fondation Zakoura</h3>
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=laravel,react,postgres" height="30" />
+    <img src="https://skillicons.dev/icons?i=laravel,react,postgres" height="30" alt="Fondation Zakoura technologies" />
   </p>
 
   <p>
@@ -80,7 +91,8 @@
     </i>
   </p>
 
-  <p><b>Status:</b> 🔒 Private Repository</p>
+  <p><strong>Status:</strong> 🔒 Private Repository</p>
+
 </td>
 ```
 
@@ -92,6 +104,7 @@
 <h2 align="center">🔍 How I Work</h2>
 
 <div align="center">
+
   <p>
     <i>
       I care about understanding why something works, not just getting it to work.
@@ -103,4 +116,5 @@
       AI can help me move faster. I still want to understand the code.
     </i>
   </p>
+
 </div>
