@@ -88,8 +88,8 @@ localhost         !== "production"
 
 <h2 align="center">📊 GitHub Activity</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ihssaneeeE&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=777777" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihssaneee&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=777777" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=777777" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=777777" width="48%" />
 </div>
 
 <p align="center"><i>Keep building.</i></p>
