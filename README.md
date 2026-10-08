@@ -1,65 +1,52 @@
 <div align="center">
 
-<br>
+# hey, I'm Ihssane 👋
 
-# IHSSANE
-
-**Full-Stack Developer**
+### I write code, break things, fix them, and occasionally wonder why I thought this was a good career.
 
 <br>
 
-[Portfolio](https://ihssane-portfolio.vercel.app/)　·　[LinkedIn](https://www.linkedin.com/)
-
-<br><br>
+[🌐 portfolio](https://ihssane-portfolio.vercel.app/)　　[💼 linkedin](https://www.linkedin.com/)
 
 </div>
 
----
-
-<div align="center">
-
-### I build web applications
-
-### and I'm currently building my way into **.NET + Angular.**
-
 <br>
 
-</div>
-
 ---
 
-<table align="center">
+<table>
 <tr>
-<td align="center" width="250">
+<td width="55%" valign="top">
 
-**BUILDING**
+## currently obsessed with
 
-`CollabWorkspace`
+**building things I actually understand.**
 
-ASP.NET Core
-Angular · PostgreSQL
+I'm moving from my Laravel/React background toward:
 
-</td>
+**C# → .NET → ASP.NET Core → Angular**
 
-<td align="center" width="250">
+Right now I'm building **CollabWorkspace**, a Scrum-oriented collaboration platform where I'm learning the boring-but-important stuff:
 
-**EXPERIENCE**
-
-Laravel · React
-
-Real-world
-business systems
+authentication, authorization, APIs, databases, architecture, and all the little decisions that nobody puts in a tutorial.
 
 </td>
 
-<td align="center" width="250">
+<td width="45%" valign="top">
 
-**EXPLORING**
+### 🧩 things I've learned the hard way
 
-Architecture
-Authentication
-APIs
-Data
+`"it works"` ≠ `"it's good"`
+
+`more abstractions` ≠ `"better architecture"`
+
+`AI generated` ≠ `"understood"`
+
+`localhost` ≠ `"production"`
+
+and
+
+**never trust code you haven't debugged yourself.**
 
 </td>
 </tr>
@@ -67,70 +54,120 @@ Data
 
 ---
 
-<br>
+## 🛠️ my current toolbox
 
 <div align="center">
 
-### SELECTED WORK
+### backend
 
-</div>
+**C#** · **ASP.NET Core** · **EF Core** · **PostgreSQL** · **REST APIs**
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+### frontend
 
-### CollabWorkspace
+**Angular** · **TypeScript** · **React** · **Tailwind**
 
-A Scrum-focused collaboration platform I'm building to deepen my .NET and Angular skills.
+### survived
 
-**ASP.NET Core · Angular · PostgreSQL**
-
-`in progress`
-
-</td>
-
-<td width="50%" valign="top">
-
-### Business Applications
-
-Worked on production business software involving purchasing, inventory, HR, payments, documents, workflows and REST APIs.
-
-**Laravel · React · PostgreSQL**
-
-`private`
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-<div align="center">
-
-### THE STACK
-
-<br>
-
-**C#**　**.NET**　**ASP.NET Core**　**Angular**　**TypeScript**　**React**　**PostgreSQL**
-
-<br>
-
-`Git`　`Docker`　`EF Core`　`JWT`
+**Laravel** · **PHP** · **MySQL**
 
 </div>
 
 ---
 
+## 🏗️ things I've actually built
+
+### `CollabWorkspace`
+
+**ASP.NET Core + Angular + PostgreSQL**
+
+A Scrum-focused collaboration and ticket management system.
+
+Not another todo app.
+
+I'm building it piece by piece because I want to understand what happens underneath the abstractions—not just get something running.
+
+**→ currently building**
+
+---
+
+### `Fondation Zakoura — internal platform`
+
+**Laravel + React + PostgreSQL**
+
+A large private business application involving:
+
+`purchasing` · `inventory` · `HR` · `payments` · `missions` · `documents`
+
+with approval workflows, REST APIs, filtering, PDF generation, notifications and validation.
+
+The repository is private.
+
+The experience isn't.
+
+---
+
+## 🧠 how I approach development
+
+I like knowing **why**.
+
+Why does this request need a service?
+
+Why is this query hitting the database three times?
+
+Why is this user allowed to access this resource?
+
+Why does this abstraction exist?
+
+Why did it work yesterday?
+
+...
+
+Okay, maybe I don't *always* enjoy that last one.
+
 <br>
+
+I use AI too—but increasingly as a **second pair of eyes**, not as a replacement for understanding the code.
+
+---
 
 <div align="center">
 
-> *Still learning. Still building. Still breaking things.*
+## currently somewhere between
 
-<br><br>
+<br>
 
-**Ihssane · Morocco 🇲🇦**
+**“I have no idea how this works”**
+
+↓
+
+**“wait... I think I understand it”**
+
+↓
+
+**“oh.”**
+
+↓
+
+**“I broke something else.”**
+
+↓
+
+**“okay, NOW I understand it.”**
+
+<br>
+
+### and honestly, that's where most of the learning happens.
+
+<br>
+
+---
+
+### `keep building.`
+
+🇲🇦 **Morocco** · 💻 **Full-Stack Developer**
+
+<br>
+
+[**portfolio →**](https://ihssane-portfolio.vercel.app/)
 
 </div>
