@@ -63,7 +63,7 @@
 
 <br />
 
-<h2 align="center">🌐 All Languages & Frameworks</h2>
+<h2 align="center">🌐Languages & Frameworks</h2>
 
 <div align="center">
   <p><strong>Languages</strong></p>
