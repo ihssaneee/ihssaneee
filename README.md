@@ -13,15 +13,16 @@
 
 <div align="center">
   <h3>🛠️ My Current Toolbox</h3>
-  <p><i>Building things I actually understand. Moving from Laravel/React toward the .NET ecosystem.</i></p>
+  <p><i>Building things I actually understand. Expanding my strong Laravel/React foundation into the .NET ecosystem.</i></p>
   
+  <p><b>Currently Exploring & Building With:</b></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,angular,ts,react,tailwind&perline=7" />
   </a>
 
   <br><br>
 
-  <p><b>Survived:</b></p>
+  <p><b>Battle-Tested Foundation:</b></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=laravel,php,mysql&perline=3" />
   </a>
