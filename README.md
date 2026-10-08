@@ -31,7 +31,7 @@
 
   <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,angular,ts,tailwind&perline=6" alt="Current technology stack" />
 
-<br><br>
+  <br><br>
 
   <p><strong>Experience With</strong></p>
 
@@ -47,55 +47,51 @@
   <tr>
     <td width="50%" valign="top">
 
-```
-  <h3 align="center">⚡ CollabWorkspace</h3>
+      <h3 align="center">⚡ CollabWorkspace</h3>
 
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=dotnet,angular,postgres" height="30" alt="CollabWorkspace technologies" />
-  </p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=dotnet,angular,postgres" height="30" alt="CollabWorkspace technologies" />
+      </p>
 
-  <p>
-    A Scrum-oriented collaboration and ticket management system.
-  </p>
+      <p>
+        A Scrum-oriented collaboration and ticket management system.
+      </p>
 
-  <p>
-    <i>
-      Built to understand ASP.NET Core, JWT authentication, EF Core,
-      PostgreSQL, and Angular through real implementation rather than
-      just framework abstractions.
-    </i>
-  </p>
+      <p>
+        <i>
+          Built to understand ASP.NET Core, JWT authentication, EF Core,
+          PostgreSQL, and Angular through real implementation.
+        </i>
+      </p>
 
-  <p><strong>Status:</strong> 🚧 Active Development</p>
+      <p><strong>Status:</strong> 🚧 Active Development</p>
 
-</td>
+    </td>
 
-<td width="50%" valign="top">
+    <td width="50%" valign="top">
 
-  <h3 align="center">🏛️ Fondation Zakoura</h3>
+      <h3 align="center">🏛️ Fondation Zakoura</h3>
 
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=laravel,react,postgres" height="30" alt="Fondation Zakoura technologies" />
-  </p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=laravel,react,postgres" height="30" alt="Fondation Zakoura technologies" />
+      </p>
 
-  <p>
-    Internal enterprise platform covering purchasing, inventory, HR,
-    payments, missions, and document management.
-  </p>
+      <p>
+        Internal enterprise platform covering purchasing, inventory, HR,
+        payments, missions, and document management.
+      </p>
 
-  <p>
-    <i>
-      Worked on approval workflows, PDF generation, validation,
-      notifications, REST APIs, and data integrity across multiple
-      business modules.
-    </i>
-  </p>
+      <p>
+        <i>
+          Worked on approval workflows, PDF generation, validation,
+          notifications, REST APIs, and data integrity across multiple
+          business modules.
+        </i>
+      </p>
 
-  <p><strong>Status:</strong> 🔒 Private Repository</p>
+      <p><strong>Status:</strong> 🔒 Private Repository</p>
 
-</td>
-```
-
+    </td>
   </tr>
 </table>
 
