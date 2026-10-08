@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ihssane+%F0%9F%91%8B;Full-Stack+Developer;Currently+building+with+.NET+%2B+Angular;Always+learning+by+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ihssane+%F0%9F%91%8B;Full-Stack+Developer;Building+with+.NET%2C+Angular+%26+Node;Always+learning+by+building" alt="Typing SVG" />
 
   <p><strong>🇲🇦 Morocco • Full-Stack Developer</strong></p>
 
@@ -15,19 +15,21 @@
 
 <br />
 
-<div align="center">
-  <h3>🛠️ Technologies</h3>
-  <p>
-    <i>Expanding a strong full-stack foundation while going deeper into the .NET ecosystem.</i>
-  </p>
+<h2 align="center">🛠️ Tech Stack</h2>
 
-  <p><strong>Current Focus</strong></p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,angular,ts,tailwind&perline=6" alt="Current technology stack" />
+<div align="center">
+  <p><strong>Programming Languages</strong></p>
+  <img src="https://skillicons.dev/icons?i=cs,ts,js,php" alt="Programming Languages" />
+  
+  <br /><br />
+
+  <p><strong>Frameworks & Runtimes</strong></p>
+  <img src="https://skillicons.dev/icons?i=dotnet,angular,nodejs,express,laravel,react" alt="Frameworks and Runtimes" />
 
   <br /><br />
 
-  <p><strong>Experience With</strong></p>
-  <img src="https://skillicons.dev/icons?i=laravel,php,react,mysql&perline=4" alt="Technologies I have experience with" />
+  <p><strong>Databases & UI</strong></p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,tailwind" alt="Databases and UI" />
 </div>
 
 <br />
@@ -60,14 +62,3 @@
     </td>
   </tr>
 </table>
-
-<br />
-
-<h2 align="center">🔍 How I Work</h2>
-
-<div align="center">
-  <code>Understanding &gt; Just getting it to work</code> •
-  <code>Code Ownership &gt; AI Generation</code>
-  <br /><br />
-  <p><i>I use AI to move faster, but I prioritize deeply understanding the underlying architecture and mechanics of the code I write.</i></p>
-</div>
