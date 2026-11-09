@@ -19,7 +19,7 @@
   <h3>🛠️ Technologies</h3>
 
   <p><strong>Professional Experience</strong></p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,js,postgres,mysql" alt="Professional technologies" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,js,ts,tailwind,postgres,mysql" alt="Professional technologies" />
 
   <br /><br />
 
