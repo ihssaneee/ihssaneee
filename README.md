@@ -24,7 +24,7 @@
   <br /><br />
 
   <p><strong>Currently Exploring</strong></p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,postgres,tailwind" alt="Technologies currently exploring" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular" alt="Technologies currently exploring" />
 </div>
 
 <br />
