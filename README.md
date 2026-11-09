@@ -36,7 +36,7 @@
     <td width="50%" valign="top">
       <h3 align="center">🏛️ Fondation Zakoura</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=php,laravel,react,postgres" height="30" alt="Fondation Zakoura technologies" />
+        <img src="https://skillicons.dev/icons?i=laravel,react,postgres" height="30" alt="Fondation Zakoura technologies" />
       </p>
       <p><strong>Professional Experience</strong></p>
       <p>Internal enterprise platform covering purchasing, inventory, HR, payments, missions, and document management.</p>
